@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Learning to code since March/2025<br>📚 I'm currently focusing on Flexbox & CSS Grid for responsive layouts.<br>🎯 Goals: Master Vanilla JavaScript and start learning the React framework.<br>🎲 Fun fact: I'm a manga collector and have a special place in my heart for classic PlayStation 2 games.</p>
+<p align="left">✨ Learning to code since March/2025<br>📚 I'm currently focusing on Flexbox & CSS Grid for responsive layouts.<br>🎯 Goals: Master Vanilla JavaScript and start learning the React framework.<br>🎲 Fun fact: I'm a mangá collector and have a special place in my heart for classic PlayStation 2 games.</p>
 
 ###
 
