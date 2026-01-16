@@ -34,7 +34,7 @@
 <h2 align="left">My links</h2>
 
 <div aling="left">
-  <a href="https://www.linkedin.com/in/ericksonsilva/" target="_blank" title="Acesse meu LinkedIn">
+  <a href="https://www.linkedin.com/in/ericksonsilva/" target="_blank" title="Access my LinkedIn">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="javascript logo"  />
   </a>
 </div>
