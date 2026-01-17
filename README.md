@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.upwork.com/freelancers/~017e11b9b37584bb4a" target="_blank" title="Acess my Upwork">
-  <img src="..." height="40" alt="upwork logo"  />
+  <img src="upwork.svg" height="40" alt="upwork logo"  />
   </a>
 </div>
 
