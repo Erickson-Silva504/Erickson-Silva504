@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name's Erickson da Silva and I'm a Front-end Developer in Training, from Rio Grande do Sul - Brazil.</p>
+<p align="left">I'm Erickson da Silva, a Junior Front-end Developer from Rio Grande do Sul, Brazil.</p>
 
 ###
 
